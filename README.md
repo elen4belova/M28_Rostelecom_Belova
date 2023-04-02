@@ -16,5 +16,7 @@
 Тестирование требований в виде комментирования полученных требований - 
 https://docs.google.com/document/d/19FM684SPY-6-8U1vAgn8ycd8y6xrhYlb0KI8lvxbgOQ/edit?usp=sharing
 
+Тест-кейсы и баг-репорты - 
+https://docs.google.com/spreadsheets/d/1pZ34tv1yr-eK7DqWpx2CcYNNGzq6iWNVHv1191l4-DI/edit?usp=sharing
 
 
