@@ -13,4 +13,8 @@
 -----------------------------------
 ОТВЕТ
 
-Тестирование требований в виде комментирования полученных требований - https://docs.google.com/document/d/19FM684SPY-6-8U1vAgn8ycd8y6xrhYlb0KI8lvxbgOQ/edit?usp=sharing
+Тестирование требований в виде комментирования полученных требований - 
+https://docs.google.com/document/d/19FM684SPY-6-8U1vAgn8ycd8y6xrhYlb0KI8lvxbgOQ/edit?usp=sharing
+
+
+
