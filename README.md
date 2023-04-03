@@ -19,4 +19,12 @@ https://docs.google.com/document/d/19FM684SPY-6-8U1vAgn8ycd8y6xrhYlb0KI8lvxbgOQ/
 Тест-кейсы и баг-репорты - 
 https://docs.google.com/spreadsheets/d/1pZ34tv1yr-eK7DqWpx2CcYNNGzq6iWNVHv1191l4-DI/edit?usp=sharing
 
+Для тестирования интерфейса авторизации применены техника предугадывания ошибок, позитивное и негативное тестирование. 
 
+Для запуска тестов необходимо прописать валидные значения почты, телефона и пароля предварительно зарегистрированного пользователя в файле .env
+
+Также необходимо добавить в проект библиотеки командрой pip install -r requirements.txt
+
+Также необходимо загрузить Selenium WebDriver и прописать путь к драйверу в переменную PATH в файле settings.py
+
+Для запуска тестов ввести команду pytest -v --driver Chrome --driver-path /path/to//chromedriver.exe
